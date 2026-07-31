@@ -6,8 +6,6 @@
 
 **[▶ Watch the full demo video](https://github.com/kayleeSh/math-symphony/releases/download/demo-v1/math-symphony-demo.mp4)** (full quality, with audio — the GIF above is a compressed preview)
 
-<video src="https://github.com/kayleeSh/math-symphony/releases/download/demo-v1/math-symphony-demo.mp4" controls muted width="100%"></video>
-
 Math Symphony is not a music visualizer in the usual sense. Typical visualizers map audio loudness directly onto a bar height or a color — a shortcut that produces something reactive but not *meaningful*. This project inserts a real translation layer in between: every visual you see is the output of an explicit, documented, unit-tested mathematical function of an explicit, named musical property. Pitch becomes orbit radius on a golden spiral. Chord quality becomes the symmetry of a rose curve. A beat becomes the impulse response of a critically-damped spring. Nothing on screen is arbitrary, and nothing is `Math.random()`.
 
 ```
