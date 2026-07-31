@@ -2,7 +2,7 @@
 
 **Translate music into the language of mathematics.**
 
-![Math Symphony — a golden-spiral particle field driven by a live chord progression](docs/screenshot.png)
+![Math Symphony demo — a beat-triggered shockwave burst reshaping the particle field in real time](docs/demo.gif)
 
 Math Symphony is not a music visualizer in the usual sense. Typical visualizers map audio loudness directly onto a bar height or a color — a shortcut that produces something reactive but not *meaningful*. This project inserts a real translation layer in between: every visual you see is the output of an explicit, documented, unit-tested mathematical function of an explicit, named musical property. Pitch becomes orbit radius on a golden spiral. Chord quality becomes the symmetry of a rose curve. A beat becomes the impulse response of a critically-damped spring. Nothing on screen is arbitrary, and nothing is `Math.random()`.
 
